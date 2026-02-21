@@ -13,6 +13,9 @@ Toonin AI is a prompt analysis and refinement tool that helps users craft better
 
 ## Usage
 
+- create a `.env.local` file
+- add `OPEN_AI_KEY=your key here`
+
 ```bash
 npm run dev
 ```
